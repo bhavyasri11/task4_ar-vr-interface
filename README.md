@@ -20,4 +20,5 @@ exploring the marketplace, collections, and shop, as well as clear call-to-actio
 experience.
 
 **OUTPUT**:
+
 ![Image](https://github.com/user-attachments/assets/e17fda48-6726-4f38-99e1-7c259ed14e62)
